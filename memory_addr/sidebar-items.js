@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["PAGE_SIZE_4K"],"fn":["align_down","align_down_4k","align_offset","align_offset_4k","align_up","align_up_4k","is_aligned","is_aligned_4k"],"macro":["pa","pa_range","va","va_range"],"struct":["PageIter","PhysAddr","PhysAddrRange","VirtAddr","VirtAddrRange"],"type":["PageIter4K"]};
